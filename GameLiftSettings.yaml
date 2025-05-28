@@ -1,0 +1,280 @@
+version: 1
+CurrentProfileName: benxiwan-admin
+CurrentRegion: us-east-1
+CurrentBucketName: gamelift-bootstrap-614954710407-us-east-1
+LastOpenTab: Help
+UserProfiles: >
+  - Region: us-east-1
+    Name: benxiwan-admin
+    BucketName: gamelift-bootstrap-614954710407-us-east-1
+    AnywhereFleetName: myFleet002
+    AnywhereFleetId: fleet-17bf0e11-3443-4aff-abc4-85f8512b04fc
+    AnywhereFleetLocation: custom-location-1
+    ComputeName: benxiwanAnywhere003
+    IpAddress: 127.0.0.1
+    WebSocketUrl: wss://us-east-1.api.amazongamelift.com
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: default
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: 654320664225_Minimum-IAM-policies-for-EKSCTL
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: eksadmin03
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: benxiwan+01
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: benxiwan+02
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+  - Region: 
+    Name: eks-admin
+    BucketName: 
+    AnywhereFleetName: 
+    AnywhereFleetId: 
+    AnywhereFleetLocation: 
+    ComputeName: 
+    IpAddress: 
+    WebSocketUrl: 
+    ContainerDeploymentInProgress: false
+    ContainersDeploymentComplete: false
+    ContainerQuestionnaireScenario: NoContainerImageNoExistingEcrRepo
+    ContainerDeploymentScenario: SingleRegion
+    ContainerGameServerBuildPath: 
+    ContainerGameServerExecutable: 
+    ContainerDockerImageId: 
+    ContainerECRRepositoryName: 
+    ContainerECRRepositoryUri: 
+    ContainerECRImageUri: 
+    ContainerECRImageId: 
+    ContainerPortRange: 
+    ContainerTotalMemory: 
+    ContainerTotalVcpu: 
+    ContainerGameName: 
+    ContainerImageTag: 
+    IsContainerImageBuilding: false
+    IsContainerImageBuilt: false
+    IsECRRepoCreated: false
+    IsContainerPushedToECR: false
+    IsCGDDeploying: false
+    IsCGDDeployed: false
+    DeploymentScenario: SingleRegion
+    DeploymentGameName: 
+    ManagedEC2FleetName: 
+    BuildName: 
+    LaunchParameters: 
+    BuildOperatingSystem: 
+    DeploymentBuildFilePath: 
+    DeploymentBuildFolderPath: 
+...
